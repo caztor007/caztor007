@@ -16,12 +16,9 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <ul>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
-  <li><em>✏️ A sentence about you and what you do.</em></li>
+  <li><em>🎓 Computer Science Student at CU London.</em></li>
+  <li><em>💻 Interested in Software Development and Technology.</em></li>
+  <li><em>🐍 Learning Python, HTML, CSS and Web Development.</em></li>
 </ul>
 
 </td>
