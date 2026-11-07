@@ -61,8 +61,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=caztor007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center"><sub>Abhimaneu · <a href="https://www.gitskins.com/readme-generator?template=community-marzzzsiam-hashtag-001-3slh">MarzzzSiam Hashtag 001</a> template by <a href="https://www.gitskins.com/creators/MarzzzSiam">@MarzzzSiam</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
 
 
 ## 🔗 Connect with Me
@@ -78,4 +76,3 @@
   <!---->
 </div>
 
-<p align="center"><sub>Abhi · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
